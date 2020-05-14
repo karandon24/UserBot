@@ -26,9 +26,9 @@ GIT_REPO_NAME =
 GITHUB_ACCESS_TOKEN = 
 
 # Custom (forked) repo URL for updater. this vars are important
-UPSTREAM_REPO_URL = https://github.com/mkaraniya/OpenUserBot.git
-REPO_URL = https://github.com/mkaraniya/OpenUserBot.git
-REPO_LINK = https://github.com/mkaraniya/OpenUserBot.git
+UPSTREAM_REPO_URL = https://github.com/karandon24/userbot.git
+REPO_URL = https://github.com/karandon24/userbot.git
+REPO_LINK = https://github.com/karandon24/userbot.git
 
 # Console verbose logging
 CONSOLE_LOGGER_VERBOSE = False
